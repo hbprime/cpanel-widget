@@ -9,7 +9,7 @@ Simply change the `prog_id` in the form and you are ready to rock!
 
 ## Example
 
-To see a live example, visit http://reseller.github.io/cpanel-widget
+To see a live example, visit http://resellers.github.io/cpanel-widget/
 
 ## Getting Started
 
